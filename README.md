@@ -1,5 +1,5 @@
 ## Hy I am ViquinhoDev 👨‍💻
-![hello!GIF]([https://url-da-sua-imagem.gif](https://media1.tenor.com/m/wPudCfjCrD8AAAAC/penguin-hello.gif))
+[hello!GIF]([https://media1.tenor.com/m/wPudCfjCrD8AAAAC/penguin-hello.gif])
 
 *I am a web deveoper, python developer and game developer.*
 
