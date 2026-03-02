@@ -2,7 +2,7 @@
 
 ![hello](gif/hello.gif)
 
-*I am a web deveoper, python developer and game developer.*
+*I am a web, python and game developer.*
 
 **MyPage:**
 
