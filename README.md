@@ -1,6 +1,6 @@
 ![hello](gif/hello.gif)
 
-# Hi, I'm Viquinho
+# Hi, I'm ViquinhoDev
 
 Developer focused on programming, experiments, and creative web projects.
 
@@ -44,13 +44,13 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViquinhoDev\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViquinhoDev\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ---
 
 # Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViquinhoDev\&layout=compact\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViquinhoDev\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
@@ -67,3 +67,71 @@ I enjoy building interactive applications, visual simulations, and tools using m
 * GitHub: [https://github.com/ViquinhoDev](https://github.com/ViquinhoDev)
 * Page: [ViquinhoDev.github.io](ViquinhoDev.github.io)
 * Codepen: [Codepen.io/ViquinhoDev](codepen.io/viquinhodev)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![hello](gif/hello.gif)
+
+# Hi, I'm Viquinho
+
+Developer interested in programming, web experiments, and creative projects.
+
+---
+
+## Languages & Technologies
+
+**Languages**
+
+* JavaScript
+* HTML
+* CSS
+* Lua
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViquinhoDev\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+---
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViquinhoDev\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## What I Build
+
+* Interactive web projects
+* HTML5 Canvas animations
+* Browser games
+* UI experiments
+
+---
+
+## GitHub
+
+https://github.com/ViquinhoDev
