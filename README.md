@@ -58,4 +58,4 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 ## Contribution Snake
 
-![snake](https://github.com/ViquinhoDev/ViquinhoDev/blob/output/github-contribution-grid-snake.svg)
+![snake dark](https://github.com/ViquinhoDev/ViquinhoDev/blob/output/github-contribution-grid-snake-dark.svg)
