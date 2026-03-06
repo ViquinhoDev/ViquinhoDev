@@ -56,4 +56,6 @@ I enjoy building interactive applications, visual simulations, and tools using m
 * Page: [ViquinhoDev.github.io](ViquinhoDev.github.io)
 * Codepen: [Codepen.io/ViquinhoDev](codepen.io/viquinhodev)
 
-![snake dark](https://github.com/ViquinhoDev/ViquinhoDev/blob/output/github-contribution-grid-snake-dark.svg)
+## Contribution Snake
+
+![snake](https://github.com/ViquinhoDev/ViquinhoDev/blob/output/github-contribution-grid-snake.svg)
