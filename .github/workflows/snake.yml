@@ -1,11 +1,13 @@
-name: generate animation
+name: Generate Snake
 
+# Permissões necessárias
 permissions:
   contents: write
 
+# Executar manualmente ou uma vez por dia
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */24 * * *" # todos os dias à meia-noite UTC
   workflow_dispatch:
 
 jobs:
@@ -13,12 +15,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Usar o Platane Snake Generator
       - uses: Platane/snk@v3
         with:
           github_user_name: ViquinhoDev
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Publicar na branch 'output' usando GitHub Pages Action
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
