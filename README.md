@@ -12,9 +12,11 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 ### Programming Languages
 
+* Python
 * JavaScript
 * HTML
 * CSS
+* Java
 * Lua
 
 ### Web Technologies
