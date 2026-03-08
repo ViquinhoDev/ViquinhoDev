@@ -63,7 +63,7 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 * GitHub: [https://github.com/ViquinhoDev](https://github.com/ViquinhoDev)
 * Page: [ViquinhoDev.github.io](ViquinhoDev.github.io)
-* Codepen: [Codepen.io/ViquinhoDev](codepen.io/viquinhodev)
+* Codepen: [Codepen.io/ViquinhoDev](https://codepen.io/ViquinhoDev)
 
 ## Contribution Snake
 
