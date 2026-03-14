@@ -68,3 +68,5 @@ I enjoy building interactive applications, visual simulations, and tools using m
 ## Contribution Snake
 
 ![snake dark](https://github.com/ViquinhoDev/ViquinhoDev/blob/output/github-contribution-grid-snake-dark.svg)
+
+:accessibility: :basecamp: :bowtie: :electron: :finnadie: :goberserk: :hurtrealbad: :octocat: :rage2: :rage4: :suspect: :atom: :basecampy: :dependabot: :feelsgood: :fishsticks: :godmode: :neckbeard: :rage1: :rage3: :shipit: :trollface: :copilot:
