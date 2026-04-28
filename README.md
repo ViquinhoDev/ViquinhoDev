@@ -1,6 +1,4 @@
-<img width="1402" height="1122" alt="ChatGPT Image 24 de abr  de 2026, 18_46_00" src="https://github.com/user-attachments/assets/abf9afdb-9707-4dff-adbe-160834b37f07" />
 <img width="1448" height="1086" alt="ChatGPT Image 24 de abr  de 2026, 18_43_39" src="https://github.com/user-attachments/assets/7cd72744-cf84-48b9-9f70-72863d77771a" />
-![hello](gif/hello.gif)
 
 # Hi, I'm ViquinhoDev
 
