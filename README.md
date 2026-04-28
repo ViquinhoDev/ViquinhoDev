@@ -1,4 +1,5 @@
-<img width="1448" height="1086" alt="ChatGPT Image 24 de abr  de 2026, 18_43_39" src="https://github.com/user-attachments/assets/7cd72744-cf84-48b9-9f70-72863d77771a" />
+<img width="1448" height="1086" alt="profile-image-1" src="https://github.com/user-attachments/assets/6db761de-3dcf-422c-9f74-d076c9ea7e33" />
+
 
 # Hi, I'm ViquinhoDev
 
