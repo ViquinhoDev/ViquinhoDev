@@ -59,6 +59,14 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 ---
 
+# Contact
+
+* GitHub: [https://github.com/ViquinhoDev](https://github.com/ViquinhoDev)
+* Page: [ViquinhoDev.github.io](ViquinhoDev.github.io)
+* Codepen: [Codepen.io/ViquinhoDev](https://codepen.io/ViquinhoDev)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -73,14 +81,6 @@ I enjoy building interactive applications, visual simulations, and tools using m
 <img height="170" src="https://streak-stats.demolab.com?user=ViquinhoDev&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# Contact
-
-* GitHub: [https://github.com/ViquinhoDev](https://github.com/ViquinhoDev)
-* Page: [ViquinhoDev.github.io](ViquinhoDev.github.io)
-* Codepen: [Codepen.io/ViquinhoDev](https://codepen.io/ViquinhoDev)
 
 ## 🎮 Contributions
 
