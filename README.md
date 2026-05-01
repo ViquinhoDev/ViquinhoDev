@@ -95,8 +95,9 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ViquinhoDev&count_bg=%230E75B6&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/>
+  <img src="https://komarev.com" alt="Contador de Visitas" />
 </p>
+
 
 <p align="center">
 Thank you for visiting my profile!
