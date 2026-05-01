@@ -95,7 +95,9 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=ViquinhoDev&color=0E75B6&style=flat-square&label=VISUALIZAÇÕES" 
+       alt="Contador de visitas" 
+       id="ViquinhoDev_profile_visits_N1834"/>
 </p>
 
 
