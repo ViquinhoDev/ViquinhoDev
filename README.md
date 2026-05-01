@@ -95,7 +95,7 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=viquinho_dev_unique_987654&label=Profile%20Views&color=0e75b6&icon=5&pretty=true&cache_bust=1" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ViquinhoDev&count_bg=%230E75B6&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/>
 </p>
 
 <p align="center">
