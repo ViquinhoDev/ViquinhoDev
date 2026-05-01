@@ -12,16 +12,17 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pac-Man (Dark Theme)
+      - name: Generate Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ViquinhoDev
           theme: dark
+          output_file: dist/pacman.svg   # 🔥 importante
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist               # 🔥 mesma pasta
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
