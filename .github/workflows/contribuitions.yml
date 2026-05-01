@@ -15,6 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      # 🔧 cria pasta antes (resolve EACCES)
+      - name: Create dist folder
+        run: mkdir -p dist
+
       # 🐍 Snake (dark)
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -22,16 +26,17 @@ jobs:
           github_user_name: ViquinhoDev
           outputs: dist/snake-dark.svg?palette=github-dark
 
-      # 🟡 Pac-Man (dark)
+      # 🟡 Pac-Man (sem inputs inválidos)
       - name: Generate Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ViquinhoDev
-          output_file: dist/pacman.svg
-          background: '#0d1117'
-          color: '#39d353'
 
-      # 🚀 Deploy
+      # 🔄 mover arquivo gerado
+      - name: Move Pac-Man to dist
+        run: mv pacman-contribution-graph.svg dist/pacman.svg
+
+      # 🚀 deploy
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
         with:
