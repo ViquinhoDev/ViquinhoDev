@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # 🔧 cria pasta antes (resolve EACCES)
+      # 🔧 cria pasta antes
       - name: Create dist folder
         run: mkdir -p dist
 
@@ -26,18 +26,18 @@ jobs:
           github_user_name: ViquinhoDev
           outputs: dist/snake-dark.svg?palette=github-dark
 
-      # 🟡 Pac-Man (sem inputs inválidos)
+      # 🟡 Pac-Man
       - name: Generate Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ViquinhoDev
 
-      # 🔄 mover arquivo gerado
-- name: Move Pac-Man to dist
-  run: |
-    FILE=$(find . -name "*pacman*.svg" | head -n 1)
-    echo "Found: $FILE"
-    mv "$FILE" dist/pacman.svg
+      # 🔄 mover arquivo (corrigido)
+      - name: Move Pac-Man to dist
+        run: |
+          FILE=$(find . -name "*pacman*.svg" | head -n 1)
+          echo "Found: $FILE"
+          mv "$FILE" dist/pacman.svg
 
       # 🚀 deploy
       - name: Deploy
