@@ -84,7 +84,10 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 ## Contributions:
 
-![snake dark](https://github.com/ViquinhoDev/ViquinhoDev/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/ViquinhoDev/ViquinhoDev/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github.com/ViquinhoDev/ViquinhoDev/blob/output/pacman-contribution-graph.svg" width="100%"/>
+
+---
 
 <!-- Profile Views -->
 <p align="center">
