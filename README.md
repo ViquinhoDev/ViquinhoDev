@@ -86,7 +86,7 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 <img src="https://raw.githubusercontent.com/ViquinhoDev/ViquinhoDev/output/snake-dark.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/ViquinhoDev/ViquinhoDev/output/pacman-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ViquinhoDev/ViquinhoDev/output/pacman.svg" width="100%"/>
 
 ---
 
