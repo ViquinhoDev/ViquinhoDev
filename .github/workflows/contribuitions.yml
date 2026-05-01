@@ -33,8 +33,11 @@ jobs:
           github_user_name: ViquinhoDev
 
       # 🔄 mover arquivo gerado
-      - name: Move Pac-Man to dist
-        run: mv pacman-contribution-graph.svg dist/pacman.svg
+- name: Move Pac-Man to dist
+  run: |
+    FILE=$(find . -name "*pacman*.svg" | head -n 1)
+    echo "Found: $FILE"
+    mv "$FILE" dist/pacman.svg
 
       # 🚀 deploy
       - name: Deploy
