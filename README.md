@@ -1,4 +1,6 @@
-<img width="1448" height="1086" alt="profile-image-1" src="https://github.com/user-attachments/assets/6db761de-3dcf-422c-9f74-d076c9ea7e33" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Creative+Developer;JavaScript+Enthusiast;Building+Interactive+Experiences;Web+Games+%26+Simulations" />
+</p>
 
 # Hi, I'm ViquinhoDev
 
