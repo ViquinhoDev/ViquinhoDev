@@ -1,5 +1,22 @@
 <img width="1448" height="1086" alt="profile-image-1" src="https://github.com/user-attachments/assets/6db761de-3dcf-422c-9f74-d076c9ea7e33" />
 
+<!-- Stars -->
+<div align="center">
+  <img src="https://img.shields.io/github/stars/ViquinhoDev/ViquinhoDev2026?label=STARS&color=gold&style=flat-square" />
+</div>
+
+<!-- Followers -->
+<div align="center">
+  <a href="https://github.com/Zuhriddin2010">
+    <img src="https://img.shields.io/github/followers/ViquinhoDev2026?label=FOLLOWERS&color=ff6b6b&style=flat-square" />
+  </a>
+</div>
+
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ViquinhoDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 # Hi, I'm ViquinhoDev
 
@@ -17,6 +34,8 @@ I enjoy building interactive applications, visual simulations, and tools using m
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+[Tecnologies](https://skillicons.dev/icons?i=html,css,js,github,vscode)
 
 ### Programming Languages
 
