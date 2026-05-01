@@ -95,7 +95,7 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViquinhoDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=Prifle-visits1-1&label=Profile%20Views&color=0e75b6&icon=5&pretty=true" />
 </p>
 
 <p align="center">
