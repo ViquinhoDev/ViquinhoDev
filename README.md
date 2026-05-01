@@ -101,3 +101,7 @@ I enjoy building interactive applications, visual simulations, and tools using m
 <p align="center">
 Thank you for visiting my profile!
 </p>
+
+<p align="center">
+  <i>🌱 I'm a developer who loves Stardew Valley 🎮</i>
+</p>
