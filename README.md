@@ -59,6 +59,23 @@ I enjoy building interactive applications, visual simulations, and tools using m
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViquinhoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViquinhoDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=ViquinhoDev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 # Contact
 
 * GitHub: [https://github.com/ViquinhoDev](https://github.com/ViquinhoDev)
