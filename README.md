@@ -82,10 +82,11 @@ I enjoy building interactive applications, visual simulations, and tools using m
 * Page: [ViquinhoDev.github.io](ViquinhoDev.github.io)
 * Codepen: [Codepen.io/ViquinhoDev](https://codepen.io/ViquinhoDev)
 
-## Contributions:
+## 🎮 Contributions
 
-<img src="https://github.com/ViquinhoDev/ViquinhoDev/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<img src="https://github.com/ViquinhoDev/ViquinhoDev/blob/output/pacman-contribution-graph.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ViquinhoDev/ViquinhoDev/output/snake-dark.svg" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/ViquinhoDev/ViquinhoDev/output/pacman-dark.svg" width="100%"/>
 
 ---
 
