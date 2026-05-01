@@ -27,6 +27,7 @@ I enjoy building interactive applications, visual simulations, and tools using m
 * CSS
 * Java
 * Lua
+* C#
 
 ### Web Technologies
 
