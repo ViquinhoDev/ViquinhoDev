@@ -42,8 +42,6 @@ I enjoy building interactive applications, visual simulations, and tools using m
 * VS Code
 * Codepen
 
----
-
 # What I Like to Build
 
 * Interactive web simulations
@@ -51,8 +49,6 @@ I enjoy building interactive applications, visual simulations, and tools using m
 * UI experiments
 * Creative coding projects
 * JavaScript tools
-
----
 
 # Current Focus
 
