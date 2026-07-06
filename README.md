@@ -72,7 +72,7 @@ I enjoy building interactive applications, visual simulations, and tools using m
 </div>
 
 <div align="center">
-  <img height="170" alt="Streak Stats" src="https://streak-stats.demolab.com?user=ViquinhoDev&theme=tokyonight&hide_border=true"/>
+  <img height="170" alt="Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app?user=ViquinhoDev&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
