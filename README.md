@@ -67,12 +67,12 @@ I enjoy building interactive applications, visual simulations, and tools using m
 **GitHub Statistics**
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/github-light/ViquinhoDev?theme=tokyonight"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/repos/ViquinhoDev?theme=tokyonight"/>
+  <img height="170" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=ViquinhoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViquinhoDev&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=ViquinhoDev&theme=tokyonight&hide_border=true"/>
+  <img height="170" alt="Streak Stats" src="https://streak-stats.demolab.com?user=ViquinhoDev&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
